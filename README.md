@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Chen Jiayu
 
-<!--
-**Gatasy/Gatasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently a student at Lanzhou University (LZU), majoring in Computer Science.
 
-Here are some ideas to get you started:
+🔬 My research interests include:
+- C language design and systems programming
+- Operating system internals and kernel module development
+- Large language models (LLMs) and diffusion-based generative models
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I enjoy building from scratch, understanding low-level system behavior, and exploring the mathematical principles behind modern AI models.
+
+📫 How to reach me:
+- Email: 320220927900@lzu.edu.cn
+
+🌱 I'm currently learning:
+- File system operations in C
+- RISC-V CPU pipeline design
+- Training and inference mechanisms of LLaDA (Language Latent Diffusion Architecture)
+
+🛠️ Tools & Languages I often use:
+`C` `Python` `Shell` `LaTeX` `Verilog` `Git` `Linux`
+
+---
+
+> "Make it work. Make it right. Make it fast." – Kent Beck
