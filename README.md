@@ -9,8 +9,6 @@
 
 💻 I enjoy building from scratch, understanding low-level system behavior, and exploring the mathematical principles behind modern AI models.
 
-📫 How to reach me:
-- Email: 320220927900@lzu.edu.cn
 
 🌱 I'm currently learning:
 - File system operations in C
